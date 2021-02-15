@@ -1,11 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "About"
+    url: http://127.0.0.1:4000/blog/jekyll/update/welcome-to-hlc/
+  - title: "Mission and Values"
+    url: http://127.0.0.1:4000/blog/jekyll/update/mission-and-values/
+  - title: "Events"
+    url: #url
+  - title: "Support Us"
+    url: #url
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
